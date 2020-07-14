@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "200139412853",
+    "firebase_url": "https://poster-55d1b.firebaseio.com",
+    "project_id": "poster-55d1b",
+    "storage_bucket": "poster-55d1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200139412853:android:80c9f70a9a93c6ca1fef3c",
+        "android_client_info": {
+          "package_name": "com.example.nirbhay.socialnetwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200139412853-j8rmp8g94ajlv4qknq2i958a74cnduoi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmZW55iwkaH59Bw0odpIUvzhmFtCFwN_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200139412853-j8rmp8g94ajlv4qknq2i958a74cnduoi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
